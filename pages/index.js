@@ -79,7 +79,7 @@ export default function Home() {
 
           <a href="https://www.google.com/doodles">
             <button type="button" className="btn">
-              I'm Feeling Lucky
+              I am Feeling Lucky
             </button>
           </a>
         </div>
