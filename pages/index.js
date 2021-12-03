@@ -32,23 +32,20 @@ export default function Home() {
       <header className="flex w-full p-5 justify-between text-sm text-gray-700">
         {/* left */}
         <div className="flex space-x-4 items-center">
-          <a
-            href="https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwi91o_w_sH0AhUIpJUCHcB4DBQQkNQCCBY&url=https%3A%2F%2Fabout.google%2F%3Futm_source%3Dgoogle-IN%26utm_medium%3Dreferral%26utm_campaign%3Dhp-footer%26fg%3D1&usg=AOvVaw33zjaJZ_ogw8iPEm4kPGYh"
-            target="_blank"
-          >
+          <a href="https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwi91o_w_sH0AhUIpJUCHcB4DBQQkNQCCBY&url=https%3A%2F%2Fabout.google%2F%3Futm_source%3Dgoogle-IN%26utm_medium%3Dreferral%26utm_campaign%3Dhp-footer%26fg%3D1&usg=AOvVaw33zjaJZ_ogw8iPEm4kPGYh">
             <p className="link">About</p>
           </a>
-          <a href="https://store.google.com/in/?hl=en-GB" target="_blank">
+          <a href="https://store.google.com/in/?hl=en-GB">
             <p className="link">Store</p>
           </a>
         </div>
 
         {/* Right */}
         <div className="flex space-x-4 items-center">
-          <a href="https://mail.google.com/mail/&ogbl" target="_blank">
+          <a href="https://mail.google.com/mail/&ogbl">
             <p className="link">Gmail</p>
           </a>
-          <a href="https://www.google.co.in/imghp?hl=en&ogbl" target="_blank">
+          <a href="https://www.google.co.in/imghp?hl=en&ogbl">
             <p className="link">Images</p>
           </a>
 
@@ -80,7 +77,7 @@ export default function Home() {
             Google Search
           </button>
 
-          <a href="https://www.google.com/doodles" target="_blank">
+          <a href="https://www.google.com/doodles">
             <button type="button" className="btn">
               I'm Feeling Lucky
             </button>
